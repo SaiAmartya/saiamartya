@@ -1,5 +1,10 @@
 ## I'm Sai Amartya... 👋
 
+Co-founder and currently building [TidalTasksAI](https://tidaltasks.app/) & [CanaryOS](https://canary-os.vercel.app/).
+
+Hobby:
+- building things.
+
 <!--
 **SaiAmartya/saiamartya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
